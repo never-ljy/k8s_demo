@@ -17,7 +17,7 @@ public class AddressController {
 
     @RequestMapping("test")
     public String test(){
-        return "hello1234564";
+        return "hello1234564435";
     }
     @RequestMapping("queryAddressList")
     public ServerResponse queryAddressList(){
